@@ -1,0 +1,533 @@
+.main {
+  background-color: #3e23ff;
+}
+.mainText {
+  color: white;
+  text-align: center;
+  margin: 1rem;
+  margin-bottom: 0;
+}
+.mainText h1 {
+  font-size: 5.62rem;
+  padding-top: 5rem;
+}
+.mainText p {
+  font-size: 1.3rem;
+  margin-bottom: 0;
+  padding-bottom: 3rem;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: white;
+}
+.logoText {
+  color: white;
+  font-weight: 600;
+}
+.navbar-toggler-icon {
+  color: white;
+}
+.navbar-toggler {
+  color: white;
+}
+.navButton {
+  background-color: #48d4a5;
+  color: white;
+  border: none;
+  border-radius: 11rem;
+  width: 8rem;
+  height: 1.9rem;
+}
+
+.sectionTwo {
+  text-align: center;
+}
+/* .sectionTwoIcons {
+  width: 4rem;
+  height: 4rem;
+} */
+.sectionTwo .row {
+  margin-top: 2.5rem;
+}
+.sectionTwo .row div {
+  padding: auto 1rem;
+}
+.sectionTwoBottomText h5 {
+  text-align: center;
+}
+.sectionTwoBottomText p {
+  width: 60%;
+  margin: auto;
+}
+.sectionThree {
+  background-color: #3e23ff;
+  position: relative;
+  width: 100%;
+  height: 50rem;
+  margin-top: 12rem;
+  color: white;
+}
+.sectionThree h3 {
+  font-size: 3.75rem;
+}
+.sectionThreeText {
+  font-size: 1.125rem;
+}
+.sectionThreeText {
+  font-size: 0.9375rem;
+}
+.sectionThreeFlex {
+  display: flex;
+  padding: 60px 10px;
+}
+.sectionThreeFlexImg {
+  position: relative;
+  flex: 50%;
+}
+.sectionThreeFlexImg img {
+  position: absolute;
+  top: -63%;
+}
+.sectionThreeFlexText {
+  flex: 50%;
+}
+.sectionThreeButtonDiv {
+  display: flex;
+  padding-top: 6rem;
+}
+.sectionThreeButtonDiv a {
+  flex: 50%;
+}
+#sectionFour {
+  text-align: center;
+  margin-top: 3rem;
+}
+#sectionFour h2 {
+  font-size: 3.75rem;
+}
+#sectionFour .row {
+  padding: 3rem;
+}
+.premiumPlan {
+  background-color: #3e23ff;
+  color: white;
+  width: 20rem;
+  height: 31rem;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
+  border-radius: 1.5rem;
+}
+.freePlan {
+  width: 20rem;
+  margin-left: 42%;
+  margin-top: 2rem;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
+  border-radius: 1.5rem;
+}
+.freePlan button {
+  background-color: #3e23ff;
+  color: white;
+  border: none;
+  border-radius: 11rem;
+  width: 6rem;
+  height: 1.9rem;
+  margin: 1.5rem;
+}
+.premiumPlan button {
+  background-color: white;
+  color: #3e23ff;
+  border: none;
+  border-radius: 11rem;
+  width: 6rem;
+  height: 1.9rem;
+  margin: 2rem;
+}
+.freePlan h5 {
+  padding: 0.6rem;
+}
+.freePlan p {
+  text-align: left;
+  margin-left: 3.2rem;
+}
+.freePlan h2 {
+  padding: 0.8rem;
+}
+.premiumPlan h5 {
+  padding: 0.6rem;
+}
+.premiumPlan h2 {
+  padding: 0.8rem;
+}
+.premiumPlan p {
+  text-align: left;
+  margin-left: 3.2rem;
+  padding-top: 0.4rem;
+}
+.sectionFive {
+  text-align: center;
+}
+.sectionFive h2 {
+  font-size: 3.75rem;
+  padding: 1rem;
+}
+.leftSelect {
+  width: 70%;
+  margin-left: 30%;
+}
+.rightSelect {
+  width: 70%;
+}
+.leftSelect select {
+  padding: 00.5rem;
+  margin: 0.8rem;
+}
+.rightSelect select {
+  padding: 00.5rem;
+  margin: 0.8rem;
+}
+.sectionFive button {
+  background-color: #3e23ff;
+  color: white;
+  border: none;
+  border-radius: 11rem;
+  width: 10rem;
+  height: 2rem;
+  margin: 1.5rem;
+}
+.footer {
+  padding: 3rem;
+}
+.footer ul {
+  list-style-type: none;
+}
+.footer ul a {
+  text-decoration: none;
+  color: black;
+}
+.footer .leftSide {
+  width: 80%;
+  margin-left: 3rem;
+}
+.footer .rightSide p {
+  width: 70%;
+}
+.footer ul {
+  padding-left: 0;
+}
+.footer .socials {
+  padding-top: 1.5rem;
+}
+.socialIcons {
+  padding: 0.5rem;
+}
+.topLeftBlob {
+  position: absolute;
+  width: 12.5rem;
+  height: 11.25rem;
+  top: 3rem;
+  left: 2rem;
+}
+.middleTopBlob {
+  position: absolute;
+  top: 6rem;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+}
+.topRightBlob {
+  position: absolute;
+  top: 7.8rem;
+  right: 5rem;
+  width: 2rem;
+  height: 2rem;
+}
+.bottomRightBlob {
+  position: absolute;
+  top: 23rem;
+  right: 4rem;
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.bottomLeftBlob {
+  position: absolute;
+  top: 21.5rem;
+  left: 4rem;
+  width: 2rem;
+  height: 2rem;
+}
+.fa-circle-check {
+  color: #18e480;
+}
+.fa-circle-xmark {
+  color: #ff6767;
+}
+.socialIcons {
+  color: #3e23ff;
+}
+
+@media screen and (min-width: 1400px) {
+  .freePlan {
+    margin-left: 52%;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .sectionThreeFlexImg img {
+    position: absolute;
+    top: -10%;
+    height: 45rem;
+  }
+}
+@media screen and (max-width: 990px) {
+  .theNavs {
+    margin-left: 2rem;
+    margin-right: 0;
+    padding-right: 0;
+  }
+  .mainText h1 {
+    font-size: 4.5rem;
+  }
+  .sectionThreeFlexImg img {
+    position: absolute;
+    top: 1%;
+    height: 30rem;
+    left: -10%;
+  }
+  .freePlan {
+    margin-left: 20%;
+  }
+  .topLeftBlob {
+    position: absolute;
+    width: 10.5rem;
+    height: 9.25rem;
+    top: 3rem;
+    left: 1rem;
+  }
+  .bottomRightBlob {
+    position: absolute;
+    top: 27rem;
+    right: 4rem;
+    width: 10.5rem;
+    height: 10.5rem;
+  }
+  .sectionThree {
+    height: 42rem;
+  }
+  .sectionThreeButton {
+    width: 10rem;
+    margin: 0.5rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .mainText h1 {
+    font-size: 3.5rem;
+  }
+  .sectionTwoBottomTextCard {
+    margin: 2rem auto;
+  }
+  .sectionThreeFlexText {
+    width: 30%;
+  }
+  .sectionThreeFlexText h3 {
+    font-size: 2.5rem;
+  }
+  .sectionThreeButton {
+    width: 8rem;
+    margin: 0.5rem;
+  }
+  .premiumPlan {
+    margin: auto;
+    margin-top: 4rem;
+  }
+  .freePlan {
+    margin: auto;
+    width: 20rem;
+  }
+  .rightSelect {
+    display: none;
+  }
+  .leftSelect {
+    margin: auto;
+  }
+  .rightSide {
+    margin-left: 3rem;
+  }
+  .sectionThree {
+    height: 39rem;
+  }
+}
+@media screen and (max-width: 680px) {
+  .topLeftBlob {
+    position: absolute;
+    width: 8.5rem;
+    height: 7.25rem;
+    top: 2.5rem;
+    left: 0.9rem;
+  }
+  .sectionThreeButton {
+    width: 6.5rem;
+    margin: 0.5rem;
+  }
+  .mainText h1 {
+    font-size: 2.5rem;
+  }
+  .bottomRightBlob {
+    position: absolute;
+    top: 21rem;
+    right: 3rem;
+    width: 8rem;
+    height: 8rem;
+  }
+  .sectionThree {
+    height: 37rem;
+  }
+}
+@media screen and (max-width: 478px) {
+  .sectionThreeFlexImg img {
+    position: absolute;
+    top: 1%;
+    height: 22rem;
+    left: -10%;
+  }
+  .sectionThreeButton {
+    width: 6rem;
+    margin: 0.5rem;
+  }
+  .sectionThreeFlexText h3 {
+    font-size: 1.5rem;
+  }
+  .sectionThree {
+    height: 30rem;
+  }
+  .sectionThreeButtonDiv {
+    display: flex;
+    padding-top: 3rem;
+  }
+}
+@media screen and (max-width: 445px) {
+  .sectionThreeButton {
+    width: 5.5rem;
+    margin: 0.5rem;
+  }
+  .bottomLeftBlob {
+    position: absolute;
+    top: 24.5rem;
+    left: 4rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .bottomRightBlob {
+    top: 24.5rem;
+  }
+}
+@media screen and (max-width: 445px) {
+  .sectionThreeButton {
+    width: 4.5rem;
+    margin: 0.5rem;
+  }
+  .sectionThreeText {
+    font-size: 0.8rem;
+  }
+  .bottomLeftBlob {
+    top: 22.5rem;
+  }
+  .bottomRightBlob {
+    top: 22.5rem;
+  }
+}
+@media screen and (max-width: 445px) {
+  .bottomLeftBlob {
+    top: 25rem;
+  }
+  .bottomRightBlob {
+    top: 25rem;
+  }
+}
+@media screen and (max-width: 388px) {
+  .mainText h1 {
+    font-size: 2rem;
+  }
+  .mainText p {
+    font-size: 0.8rem;
+  }
+  .bottomLeftBlob {
+    top: 20rem;
+  }
+  .bottomRightBlob {
+    top: 18rem;
+    right: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .premiumPlan {
+    margin: auto;
+    margin-top: 4rem;
+    width: 15rem;
+  }
+  .freePlan {
+    margin: auto;
+    width: 15rem;
+  }
+}
+@media screen and (max-width: 348px) {
+  .bottomRightBlob {
+    top: 20rem;
+    right: 1.5rem;
+  }
+  .sectionThreeFlexImg img {
+    position: absolute;
+    top: 1%;
+    height: 18rem;
+    left: -10%;
+  }
+  .sectionThreeButton {
+    width: 3.5rem;
+    margin: 0.5rem;
+  }
+
+  .sectionThreeButtonDiv {
+    display: flex;
+    padding-top: 1.7rem;
+  }
+  .sectionThree {
+    height: 26rem;
+  }
+  .sectionThree {
+    font-size: 0.8;
+  }
+}
+@media screen and (max-width: 348px) {
+  .bottomLeftBlob {
+    top: 24rem;
+  }
+  .bottomRightBlob {
+    top: 22rem;
+    right: 1.5rem;
+    width: 6rem;
+    height: 6rem;
+  }
+}
+@media screen and (max-width: 302px) {
+  .sectionThreeFlexImg img {
+    position: absolute;
+    top: 1%;
+    height: 13rem;
+    left: -10%;
+  }
+  .premiumPlan {
+    margin: auto;
+    margin-top: 4rem;
+    width: 12rem;
+  }
+  .freePlan {
+    margin: auto;
+    width: 12rem;
+  }
+  .premiumPlan p {
+    font-size: 00.8rem;
+  }
+  .freePlan p {
+    font-size: 00.8rem;
+  }
+}
