@@ -1,6 +1,10 @@
 .main {
   background-color: #3e23ff;
 }
+.navbar{
+position: "relative";
+  z-index: 2;
+}
 .mainText {
   color: white;
   text-align: center;
@@ -18,7 +22,7 @@
 }
 .nav-link {
   color: white;
-z-index: 2;
+
 }
 .nav-link:hover {
   color: white;
